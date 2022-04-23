@@ -1,0 +1,73 @@
+body {
+    text-align: center;
+    background-color: rgb(80, 43, 226);
+}
+
+form {
+    display: inline-block;
+    background-color: white;
+    text-align: center;
+    padding: 50px;
+    margin-top: 8em;
+    padding-left: 5em;
+    padding-right: 5em;
+    padding-bottom: 4em;
+    padding-top: .4em;
+    border-radius: .1em;
+}
+
+
+h2 {
+    font-family: Arial, Helvetica, Arial, Helvetica, sans-serif;
+    padding-top: 1em;
+}
+
+#email_input {
+    width: 350px;
+    padding-bottom: 25px;
+    padding-top: 25px;
+    padding-left: 21px;
+    background-color: gainsboro;
+    border-radius: .2em;
+    border: none;
+    font-size: 20px;
+}
+
+#password_input {
+    width: 350px;
+    padding-bottom: 25px;
+    padding-top: 25px;
+    padding-left: 21px;
+    background-color: gainsboro;
+    border-radius: .2em;
+    border: none;
+    font-size: 20px;
+}
+
+#scaler {
+    margin-right: 240px;
+}
+
+#sign_in {
+    width: 375px;
+    padding-bottom: 25px;
+    padding-top: 25px;
+    padding-left: 21px;
+    background-color:rgb(80, 43, 226) ;
+    border-radius: .2em;
+    border: none;
+    font-size: 25px;
+    color: white;
+    margin-bottom: 2em;
+    text-decoration: none;
+}
+
+#home_page {
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+}
+
+
+
+
